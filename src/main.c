@@ -12,5 +12,13 @@
 #endif
 
 int main(void) {
+
+    pcg32_random_t rng;
+    pcg32_srandom_r(&rng, (uint64_t)time(NULL), 42u);  
+
+    Lattice* lat = init_lattice(16, 2, 1, &rng);
+
+    free_lattice(lat);
+
     return 0;
 }
