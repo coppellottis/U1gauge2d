@@ -30,15 +30,24 @@ FAST_DEP = $(FAST_OBJ:.o=.d)
 # Executable
 TARGET = u1gauge2d
 
-# Standard compilation
+# Default target
 all: $(TARGET)
 
+# Standard compilation
 $(TARGET): $(OBJ)
 	$(CC) $(OBJ) -o $@ $(LDLIBS)
+
+$(BUILD_DIR)/%.o: $(SRC_DIR)/%.c
+	mkdir -p $(BUILD_DIR)
+	$(CC) $(CPPFLAGS) $(CFLAGS) -MMD -MP -c $< -o $@
 
 # Fast compilation
 fast: $(FAST_OBJ)
 	$(CC) $(FAST_OBJ) -o $(TARGET) $(LDLIBS)
+
+$(FAST_DIR)/%.o: $(SRC_DIR)/%.c
+	mkdir -p $(FAST_DIR)
+	$(CC) $(CPPFLAGS) $(FAST_CFLAGS) -MMD -MP -c $< -o $@
 
 # Run
 run: $(TARGET)
@@ -49,6 +58,9 @@ run-fast: fast
 
 # Clean
 clean:
-	rm -rf $(BUILD_DIR)/*
+	rm -rf $(BUILD_DIR) $(TARGET)
+
+# Dependencies
+-include $(DEP) $(FAST_DEP)
 
 .PHONY: all fast run run-fast clean
