@@ -4,6 +4,10 @@
 #include "lattice.h"
 #include "pcg_basic.h"
 
+#ifndef M_PI
+    #define M_PI 3.14159265358979323846
+#endif
+
 Lattice* init_lattice(int L, double beta, bool hot, pcg32_random_t* rng) {
     Lattice* lat = malloc(sizeof(Lattice));
     lat->L = L;

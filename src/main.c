@@ -2,7 +2,7 @@
 #include <stdint.h>
 #include <stdlib.h>
 #include <math.h>
-
+#include <time.h>
 #include "lattice.h"
 #include "pcg_basic.h"
 #include "simulation.h"
@@ -17,6 +17,7 @@ int main(void) {
     pcg32_srandom_r(&rng, (uint64_t)time(NULL), 42u);  
 
     Lattice* lat = init_lattice(16, 2, 1, &rng);
+    simulation(lat, 1e3, &rng);
 
     free_lattice(lat);
 
