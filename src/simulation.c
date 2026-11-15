@@ -3,32 +3,15 @@
 #include <time.h>
 #include <stdio.h>
 #include <math.h>
+
 #include "lattice.h"
 #include "simulation.h"
 #include "pcg_basic.h"
+#include "observables.h"
 
 #ifndef M_PI
     #define M_PI 3.14159265358979323846
 #endif
-
-static double normalize_angle(double theta) {
-    theta = fmod(theta + M_PI, 2*M_PI);
-    theta = (theta < 0) ? theta + 2*M_PI : theta;
-    return theta - M_PI;
-}
-
-static double plaq_angle(Lattice* lat, int s) {
-    int sx = lat->up[2*s + 0]; // s + 0
-    int sy = lat->up[2*s + 1]; // s + 1
-
-    double theta_p =
-          lat->th[2*s  + 0]
-        + lat->th[2*sx + 1]
-        - lat->th[2*sy + 0]
-        - lat->th[2*s  + 1];
-
-    return theta_p;
-}
 
 static void overrelaxation_update(Lattice* lat, int s, int mu) {
     int p1 = s;
@@ -37,7 +20,9 @@ static void overrelaxation_update(Lattice* lat, int s, int mu) {
     double a1 = plaq_angle(lat,p1);
     double a2 = plaq_angle(lat,p2);
 
-    double S_old = cos(a1)+cos(a2);
+    #ifdef DEBUG
+        double S_old = cos(a1)+cos(a2);
+    #endif
 
     double sign = (mu == 0) ? -1.0 : 1.0;
     double theta_bar = sign*(0.5*normalize_angle(a1-a2))+lat->th[2*s+mu];
@@ -46,22 +31,24 @@ static void overrelaxation_update(Lattice* lat, int s, int mu) {
 
     lat->th[2*s+mu] = th_new;
 
-    double b1 = plaq_angle(lat, p1);
-    double b2 = plaq_angle(lat, p2);
+    #ifdef DEBUG
+        double b1 = plaq_angle(lat, p1);
+        double b2 = plaq_angle(lat, p2);
 
-    double S_new = cos(b1)+cos(b2);
+        double S_new = cos(b1)+cos(b2);
 
-    double delta_S = fabs(S_new - S_old);
-    if (delta_S > 1e-12) {
-        fprintf(stderr, "\n[FATAL ERROR] Overrelaxation: L'azione locale non si è conservata!\n");
-        fprintf(stderr, "  -> Sito: %d, Link mu: %d\n", s, mu);
-        fprintf(stderr, "  -> Action old:   %.15f\n", S_old);
-        fprintf(stderr, "  -> Action new:   %.15f\n", S_new);
-        fprintf(stderr, "  -> Differenza:   %e\n", delta_S);
-        fprintf(stderr, "Il programma verrà terminato.\n\n");
-        
-        exit(EXIT_FAILURE);
-    }
+        double delta_S = fabs(S_new - S_old);
+        if (delta_S > 1e-12) {
+            fprintf(stderr, "\n[FATAL ERROR] Overrelaxation: L'azione locale non si è conservata!\n");
+            fprintf(stderr, "  -> Sito: %d, Link mu: %d\n", s, mu);
+            fprintf(stderr, "  -> Action old:   %.15f\n", S_old);
+            fprintf(stderr, "  -> Action new:   %.15f\n", S_new);
+            fprintf(stderr, "  -> Differenza:   %e\n", delta_S);
+            fprintf(stderr, "Il programma verrà terminato.\n\n");
+            
+            exit(EXIT_FAILURE);
+        }
+    #endif
 
     return;
 } 
@@ -127,6 +114,8 @@ void simulation(Lattice* lat, int n_sweep, pcg32_random_t* rng) {
     int acc = 0;
     for(int i = 0; i < n_sweep; i++) {
         acc += hybrid_sweep(lat, rng);
+        double W = wilson_loop(lat, 4, 4);
+        printf("Wilson loop 4x4: %.4f\n", W);
     }
 
     /* Fine del timer */

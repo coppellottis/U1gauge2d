@@ -1,4 +1,4 @@
-#ifndef SIMULATIO_H
+#ifndef SIMULATION_H
     #define SIMULATION_H 1
 
     #include <stdbool.h>
