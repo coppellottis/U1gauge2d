@@ -8,6 +8,7 @@
 #include "simulation.h"
 #include "pcg_basic.h"
 #include "observables.h"
+#include "vonmises.h"
 
 #ifndef M_PI
     #define M_PI 3.14159265358979323846
@@ -61,6 +62,16 @@ static void overrelaxation_sweep(Lattice* lat) {
     }
 }
 
+static void heat_bath_sweep(Lattice* lat, pcg32_random_t* rng) {
+    for(int s =0; s<lat->V; s++) {
+        for(int mu=0; mu<2; mu++) {
+            double th_new = vonmises_sample(lat, s, mu, rng);
+            lat->th[2*s+mu] = th_new;
+        }
+    }
+    return;
+}
+
 static int metropolis_sweep(Lattice* lat, pcg32_random_t* rng) {
     int acc = 0;
     int V = lat->V;
@@ -95,13 +106,15 @@ static int metropolis_sweep(Lattice* lat, pcg32_random_t* rng) {
 
 
 static int hybrid_sweep(Lattice* lat, pcg32_random_t* rng) {
-    /* 1 M -> 5 OR */
+    /* 1 M -> 2 OR -> 1 HB -> 2 OR */
 
     int acc = metropolis_sweep(lat, rng);
 
-    for (int k = 0; k < 5; k++) {
-        overrelaxation_sweep(lat);
-    }
+    for (int k = 0; k < 2; k++) overrelaxation_sweep(lat);
+
+    heat_bath_sweep(lat, rng);
+
+    for (int k = 0; k < 2; k++) overrelaxation_sweep(lat);
 
     return acc;
 }
@@ -111,11 +124,28 @@ void simulation(Lattice* lat, int n_sweep, pcg32_random_t* rng) {
     struct timespec start, end;
     clock_gettime(CLOCK_MONOTONIC, &start);
 
+    /* Termalizzazione */
+    int n_therm = 100;
+    for(int i = 0; i<n_therm; i++) {
+        hybrid_sweep(lat, rng);
+    }
+
+
+    /* Misure */
     int acc = 0;
     for(int i = 0; i < n_sweep; i++) {
         acc += hybrid_sweep(lat, rng);
-        double W = wilson_loop(lat, 4, 4);
-        printf("Wilson loop 4x4: %.4f\n", W);
+
+        FILE* file = fopen("results/data.csv", "a");
+
+        for(int R = 0; R<lat->L/3; R++) {
+            for(int T = 0; T<R; T++) {
+                double W = wilson_loop(lat, R, T);
+                fprintf(file, "%.4f,", W);
+            }
+        }
+        fprintf(file, "\n");
+        fclose(file);
     }
 
     /* Fine del timer */
