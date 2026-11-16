@@ -118,7 +118,11 @@ static int hybrid_sweep(Lattice* lat, pcg32_random_t* rng) {
 
     return acc;
 }
-void simulation(Lattice* lat, int n_sweep, pcg32_random_t* rng) {
+void simulation(Lattice* lat, int n_sweep, pcg32_random_t* rng, const char* filename, int R, int T) {
+
+    char path[256];
+    snprintf(path, sizeof(path), "data/%s.csv", filename);
+    FILE* file = fopen(path, "a");
 
     /* Inizio del timer */
     struct timespec start, end;
@@ -136,17 +140,19 @@ void simulation(Lattice* lat, int n_sweep, pcg32_random_t* rng) {
     for(int i = 0; i < n_sweep; i++) {
         acc += hybrid_sweep(lat, rng);
 
-        FILE* file = fopen("results/data.csv", "a");
+        int Rm = R, Tm = T;
+        if (R > T && T >= 2) { Rm = T; Tm = R; }
 
-        for(int R = 0; R<lat->L/3; R++) {
-            for(int T = 0; T<R; T++) {
-                double W = wilson_loop(lat, R, T);
-                fprintf(file, "%.4f,", W);
-            }
+        double W = 0.0;
+        if(Rm < 2 || Rm > lat->L - 2) {
+            W = wilson_loop(lat, Rm, Tm);
+        } else {
+            int n_hit = 10;
+            W = wilson_loop_mh(lat, Rm, Tm, n_hit, rng);
         }
-        fprintf(file, "\n");
-        fclose(file);
+        fprintf(file, "%.17g\n", W);
     }
+    fclose(file);
 
     /* Fine del timer */
     clock_gettime(CLOCK_MONOTONIC, &end);
@@ -186,11 +192,13 @@ void simulation(Lattice* lat, int n_sweep, pcg32_random_t* rng) {
     fprintf(output, "V                          = %d\n", lat->V);
     fprintf(output, "N_links                    = %d\n", n_links);
     fprintf(output, "beta                       = %.8f\n", lat->beta);
-    fprintf(output, "N_sweeps (1 M + 5 OR)      = %d\n", n_sweep);
-    fprintf(output, "N_attempts (M)             = %d\n", n_attempts);
-    fprintf(output, "N_accepted (M)             = %d\n", acc);
-    fprintf(output, "Acceptance rate (M)        = %.6f\n", acc_rate);
+    fprintf(output, "N_therm                    = %d\n", n_therm);
+    fprintf(output, "N_sweeps (hybrid)          = %d\n", n_sweep);
+    fprintf(output, "N_accepted (Metr.)         = %d\n", acc);
+    fprintf(output, "Acceptance rate (Metr.)    = %.6f\n", acc_rate);
     fprintf(output, "Execution time             = %.6f s\n", elapsed);
+    fprintf(output, "Multihit                   = Y\n");
+    fprintf(output, "File                       = %s\n", path);
     fprintf(output, "========================================\n\n");
 
     fclose(output);

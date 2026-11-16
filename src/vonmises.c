@@ -3,12 +3,13 @@
 #include "vonmises.h"
 #include "lattice.h"
 #include "simulation.h"
+#include "observables.h"
 
 #ifndef M_PI
     #define M_PI 3.14159265358979323846
 #endif
 
-static void vonmises_param(Lattice* lat, int s, int mu, double* arr) {
+void vonmises_param(Lattice* lat, int s, int mu, double* arr) {
     int p1 = s;
     int p2 = (mu > 0) ? lat->dn[2*s+0] : lat->dn[2*s+1];
 

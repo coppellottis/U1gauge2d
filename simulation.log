@@ -1,91 +1,2752 @@
 ========================================
-Date            = 2026-11-14 12:54:00
-L                          = 16
-V                          = 256
-N_links                    = 512
+Date            = 2026-11-15 21:02:12
+L                          = 20
+V                          = 400
+N_links                    = 800
 beta                       = 2.00000000
-N_sweeps (1 M + 5 OR)      = 1000
-N_attempts (M)             = 512000
-N_accepted (M)             = 257676
-Acceptance rate (M)        = 0.503273
-Execution time             = 0.527177 s
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40242392
+Acceptance rate (Metr.)    = 0.503030
+Execution time             = 65.372377 s
+File                       = data/W_R1_T1.csv
 ========================================
 
 ========================================
-Date            = 2026-11-14 12:54:10
-L                          = 16
-V                          = 256
-N_links                    = 512
+Date            = 2026-11-15 21:03:17
+L                          = 20
+V                          = 400
+N_links                    = 800
 beta                       = 2.00000000
-N_sweeps (1 M + 5 OR)      = 1000
-N_attempts (M)             = 512000
-N_accepted (M)             = 257905
-Acceptance rate (M)        = 0.503721
-Execution time             = 0.552269 s
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40243499
+Acceptance rate (Metr.)    = 0.503044
+Execution time             = 65.259998 s
+File                       = data/W_R1_T2.csv
 ========================================
 
 ========================================
-Date            = 2026-11-15 10:11:17
-L                          = 16
-V                          = 256
-N_links                    = 512
+Date            = 2026-11-15 21:04:23
+L                          = 20
+V                          = 400
+N_links                    = 800
 beta                       = 2.00000000
-N_sweeps (1 M + 5 OR)      = 1000
-N_attempts (M)             = 512000
-N_accepted (M)             = 257276
-Acceptance rate (M)        = 0.502492
-Execution time             = 0.556917 s
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40236422
+Acceptance rate (Metr.)    = 0.502955
+Execution time             = 65.387102 s
+File                       = data/W_R1_T3.csv
 ========================================
 
 ========================================
-Date            = 2026-11-15 13:27:52
-L                          = 16
-V                          = 256
-N_links                    = 512
+Date            = 2026-11-15 21:05:28
+L                          = 20
+V                          = 400
+N_links                    = 800
 beta                       = 2.00000000
-N_sweeps (1 M + 5 OR)      = 1000
-N_attempts (M)             = 512000
-N_accepted (M)             = 257868
-Acceptance rate (M)        = 0.503648
-Execution time             = 0.574632 s
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40239288
+Acceptance rate (Metr.)    = 0.502991
+Execution time             = 65.608663 s
+File                       = data/W_R1_T4.csv
 ========================================
 
 ========================================
-Date            = 2026-11-15 13:30:18
-L                          = 16
-V                          = 256
-N_links                    = 512
+Date            = 2026-11-15 21:06:34
+L                          = 20
+V                          = 400
+N_links                    = 800
 beta                       = 2.00000000
-N_sweeps (1 M + 5 OR)      = 1000
-N_attempts (M)             = 512000
-N_accepted (M)             = 257517
-Acceptance rate (M)        = 0.502963
-Execution time             = 0.338957 s
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40249431
+Acceptance rate (Metr.)    = 0.503118
+Execution time             = 65.749254 s
+File                       = data/W_R1_T5.csv
 ========================================
 
 ========================================
-Date            = 2026-11-15 15:56:31
-L                          = 16
-V                          = 256
-N_links                    = 512
+Date            = 2026-11-15 21:07:40
+L                          = 20
+V                          = 400
+N_links                    = 800
 beta                       = 2.00000000
-N_sweeps (1 M + 5 OR)      = 1000
-N_attempts (M)             = 512000
-N_accepted (M)             = 258098
-Acceptance rate (M)        = 0.504098
-Execution time             = 0.520913 s
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40248256
+Acceptance rate (Metr.)    = 0.503103
+Execution time             = 66.035294 s
+File                       = data/W_R1_T6.csv
 ========================================
 
 ========================================
-Date            = 2026-11-15 16:17:43
-L                          = 16
-V                          = 256
-N_links                    = 512
+Date            = 2026-11-15 21:08:47
+L                          = 20
+V                          = 400
+N_links                    = 800
 beta                       = 2.00000000
-N_sweeps (1 M + 5 OR)      = 1000
-N_attempts (M)             = 512000
-N_accepted (M)             = 257225
-Acceptance rate (M)        = 0.502393
-Execution time             = 0.773744 s
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40251750
+Acceptance rate (Metr.)    = 0.503147
+Execution time             = 66.369478 s
+File                       = data/W_R1_T7.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:09:54
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40239568
+Acceptance rate (Metr.)    = 0.502995
+Execution time             = 67.136976 s
+File                       = data/W_R1_T8.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:10:59
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40239661
+Acceptance rate (Metr.)    = 0.502996
+Execution time             = 64.865663 s
+File                       = data/W_R2_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:12:04
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40237959
+Acceptance rate (Metr.)    = 0.502974
+Execution time             = 65.257601 s
+File                       = data/W_R2_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:13:09
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40237311
+Acceptance rate (Metr.)    = 0.502966
+Execution time             = 65.458114 s
+File                       = data/W_R2_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:14:15
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40240047
+Acceptance rate (Metr.)    = 0.503001
+Execution time             = 65.701490 s
+File                       = data/W_R2_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:15:21
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40243228
+Acceptance rate (Metr.)    = 0.503040
+Execution time             = 66.172372 s
+File                       = data/W_R2_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:16:27
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40239170
+Acceptance rate (Metr.)    = 0.502990
+Execution time             = 66.280544 s
+File                       = data/W_R2_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:17:34
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40256184
+Acceptance rate (Metr.)    = 0.503202
+Execution time             = 66.519842 s
+File                       = data/W_R2_T7.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:18:41
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40237793
+Acceptance rate (Metr.)    = 0.502972
+Execution time             = 66.840794 s
+File                       = data/W_R2_T8.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:19:46
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40241755
+Acceptance rate (Metr.)    = 0.503022
+Execution time             = 64.987194 s
+File                       = data/W_R3_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:20:51
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40242690
+Acceptance rate (Metr.)    = 0.503034
+Execution time             = 65.470095 s
+File                       = data/W_R3_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:21:57
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40241777
+Acceptance rate (Metr.)    = 0.503022
+Execution time             = 65.687610 s
+File                       = data/W_R3_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:23:03
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40238847
+Acceptance rate (Metr.)    = 0.502986
+Execution time             = 65.851129 s
+File                       = data/W_R3_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:24:09
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40235660
+Acceptance rate (Metr.)    = 0.502946
+Execution time             = 66.268887 s
+File                       = data/W_R3_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:25:16
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40238824
+Acceptance rate (Metr.)    = 0.502985
+Execution time             = 66.603807 s
+File                       = data/W_R3_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:26:23
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40252229
+Acceptance rate (Metr.)    = 0.503153
+Execution time             = 66.855555 s
+File                       = data/W_R3_T7.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:27:30
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40236877
+Acceptance rate (Metr.)    = 0.502961
+Execution time             = 67.085014 s
+File                       = data/W_R3_T8.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:28:35
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40247864
+Acceptance rate (Metr.)    = 0.503098
+Execution time             = 65.308139 s
+File                       = data/W_R4_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:29:41
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40232467
+Acceptance rate (Metr.)    = 0.502906
+Execution time             = 65.670825 s
+File                       = data/W_R4_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:30:47
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40243570
+Acceptance rate (Metr.)    = 0.503045
+Execution time             = 66.003761 s
+File                       = data/W_R4_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:31:53
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40248471
+Acceptance rate (Metr.)    = 0.503106
+Execution time             = 66.340432 s
+File                       = data/W_R4_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:32:59
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40244955
+Acceptance rate (Metr.)    = 0.503062
+Execution time             = 66.436769 s
+File                       = data/W_R4_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:34:06
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40241318
+Acceptance rate (Metr.)    = 0.503016
+Execution time             = 66.922357 s
+File                       = data/W_R4_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:35:13
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40238131
+Acceptance rate (Metr.)    = 0.502977
+Execution time             = 67.144659 s
+File                       = data/W_R4_T7.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:36:21
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40232794
+Acceptance rate (Metr.)    = 0.502910
+Execution time             = 67.420383 s
+File                       = data/W_R4_T8.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:37:27
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40238203
+Acceptance rate (Metr.)    = 0.502978
+Execution time             = 65.876385 s
+File                       = data/W_R5_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:38:34
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40237212
+Acceptance rate (Metr.)    = 0.502965
+Execution time             = 67.148187 s
+File                       = data/W_R5_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:39:40
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40244767
+Acceptance rate (Metr.)    = 0.503060
+Execution time             = 66.225625 s
+File                       = data/W_R5_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:40:47
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40233060
+Acceptance rate (Metr.)    = 0.502913
+Execution time             = 66.551042 s
+File                       = data/W_R5_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:41:54
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40242664
+Acceptance rate (Metr.)    = 0.503033
+Execution time             = 66.916654 s
+File                       = data/W_R5_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:43:01
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40237396
+Acceptance rate (Metr.)    = 0.502967
+Execution time             = 67.166040 s
+File                       = data/W_R5_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:44:08
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40233058
+Acceptance rate (Metr.)    = 0.502913
+Execution time             = 67.567390 s
+File                       = data/W_R5_T7.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:45:16
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40234161
+Acceptance rate (Metr.)    = 0.502927
+Execution time             = 67.795700 s
+File                       = data/W_R5_T8.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:46:22
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40251552
+Acceptance rate (Metr.)    = 0.503144
+Execution time             = 65.799960 s
+File                       = data/W_R6_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:47:28
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40243599
+Acceptance rate (Metr.)    = 0.503045
+Execution time             = 66.232340 s
+File                       = data/W_R6_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:48:35
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40235955
+Acceptance rate (Metr.)    = 0.502949
+Execution time             = 66.540173 s
+File                       = data/W_R6_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:49:41
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40244820
+Acceptance rate (Metr.)    = 0.503060
+Execution time             = 66.741367 s
+File                       = data/W_R6_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:50:49
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40239697
+Acceptance rate (Metr.)    = 0.502996
+Execution time             = 67.134135 s
+File                       = data/W_R6_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:51:56
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40241243
+Acceptance rate (Metr.)    = 0.503016
+Execution time             = 67.469942 s
+File                       = data/W_R6_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:53:04
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40245197
+Acceptance rate (Metr.)    = 0.503065
+Execution time             = 67.861487 s
+File                       = data/W_R6_T7.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:54:12
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40249746
+Acceptance rate (Metr.)    = 0.503122
+Execution time             = 68.161572 s
+File                       = data/W_R6_T8.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:55:19
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40231772
+Acceptance rate (Metr.)    = 0.502897
+Execution time             = 66.979615 s
+File                       = data/W_R7_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:56:26
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40247805
+Acceptance rate (Metr.)    = 0.503098
+Execution time             = 66.506292 s
+File                       = data/W_R7_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:57:33
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40254036
+Acceptance rate (Metr.)    = 0.503175
+Execution time             = 67.084324 s
+File                       = data/W_R7_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:58:40
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40240289
+Acceptance rate (Metr.)    = 0.503004
+Execution time             = 67.158540 s
+File                       = data/W_R7_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-15 21:59:47
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40242099
+Acceptance rate (Metr.)    = 0.503026
+Execution time             = 67.388883 s
+File                       = data/W_R7_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-15 22:00:55
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40245937
+Acceptance rate (Metr.)    = 0.503074
+Execution time             = 67.799075 s
+File                       = data/W_R7_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-15 22:02:03
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40246189
+Acceptance rate (Metr.)    = 0.503077
+Execution time             = 68.208133 s
+File                       = data/W_R7_T7.csv
+========================================
+
+========================================
+Date            = 2026-11-15 22:03:12
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40249761
+Acceptance rate (Metr.)    = 0.503122
+Execution time             = 68.371632 s
+File                       = data/W_R7_T8.csv
+========================================
+
+========================================
+Date            = 2026-11-15 22:04:19
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40240251
+Acceptance rate (Metr.)    = 0.503003
+Execution time             = 67.035885 s
+File                       = data/W_R8_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-15 22:05:26
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40242998
+Acceptance rate (Metr.)    = 0.503037
+Execution time             = 67.091771 s
+File                       = data/W_R8_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-15 22:06:33
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40251254
+Acceptance rate (Metr.)    = 0.503141
+Execution time             = 67.240882 s
+File                       = data/W_R8_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-15 22:07:41
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40253677
+Acceptance rate (Metr.)    = 0.503171
+Execution time             = 67.495363 s
+File                       = data/W_R8_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-15 22:08:48
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40232634
+Acceptance rate (Metr.)    = 0.502908
+Execution time             = 67.795103 s
+File                       = data/W_R8_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-15 22:09:56
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40233701
+Acceptance rate (Metr.)    = 0.502921
+Execution time             = 68.135144 s
+File                       = data/W_R8_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-15 22:11:05
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40239966
+Acceptance rate (Metr.)    = 0.503000
+Execution time             = 68.410890 s
+File                       = data/W_R8_T7.csv
+========================================
+
+========================================
+Date            = 2026-11-15 22:12:14
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40236721
+Acceptance rate (Metr.)    = 0.502959
+Execution time             = 68.633886 s
+File                       = data/W_R8_T8.csv
+========================================
+
+========================================
+Date            = 2026-11-15 23:30:07
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130381246
+Acceptance rate (Metr.)    = 0.503014
+Execution time             = 208.700178 s
+File                       = data/Wb_R1_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-15 23:33:37
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130388953
+Acceptance rate (Metr.)    = 0.503044
+Execution time             = 210.563439 s
+File                       = data/Wb_R1_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-15 23:37:10
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130378013
+Acceptance rate (Metr.)    = 0.503002
+Execution time             = 212.551450 s
+File                       = data/Wb_R1_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-15 23:40:43
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130376955
+Acceptance rate (Metr.)    = 0.502998
+Execution time             = 213.514614 s
+File                       = data/Wb_R1_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-15 23:44:17
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130383890
+Acceptance rate (Metr.)    = 0.503024
+Execution time             = 214.056321 s
+File                       = data/Wb_R1_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-15 23:47:53
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130384098
+Acceptance rate (Metr.)    = 0.503025
+Execution time             = 215.364873 s
+File                       = data/Wb_R1_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-15 23:51:29
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130385249
+Acceptance rate (Metr.)    = 0.503030
+Execution time             = 215.779993 s
+File                       = data/Wb_R1_T7.csv
+========================================
+
+========================================
+Date            = 2026-11-15 23:55:05
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130381998
+Acceptance rate (Metr.)    = 0.503017
+Execution time             = 216.637673 s
+File                       = data/Wb_R1_T8.csv
+========================================
+
+========================================
+Date            = 2026-11-15 23:58:36
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130385778
+Acceptance rate (Metr.)    = 0.503032
+Execution time             = 210.440179 s
+File                       = data/Wb_R2_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-16 00:02:07
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130382069
+Acceptance rate (Metr.)    = 0.503017
+Execution time             = 211.386935 s
+File                       = data/Wb_R2_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-16 00:05:40
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130395287
+Acceptance rate (Metr.)    = 0.503068
+Execution time             = 212.518274 s
+File                       = data/Wb_R2_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-16 00:09:14
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130372213
+Acceptance rate (Metr.)    = 0.502979
+Execution time             = 214.337844 s
+File                       = data/Wb_R2_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-16 00:12:48
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130378667
+Acceptance rate (Metr.)    = 0.503004
+Execution time             = 214.246303 s
+File                       = data/Wb_R2_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-16 00:16:23
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130390686
+Acceptance rate (Metr.)    = 0.503050
+Execution time             = 215.270474 s
+File                       = data/Wb_R2_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-16 00:20:00
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130383572
+Acceptance rate (Metr.)    = 0.503023
+Execution time             = 216.588125 s
+File                       = data/Wb_R2_T7.csv
+========================================
+
+========================================
+Date            = 2026-11-16 00:23:37
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130374071
+Acceptance rate (Metr.)    = 0.502986
+Execution time             = 217.281367 s
+File                       = data/Wb_R2_T8.csv
+========================================
+
+========================================
+Date            = 2026-11-16 00:27:09
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130398749
+Acceptance rate (Metr.)    = 0.503082
+Execution time             = 211.486789 s
+File                       = data/Wb_R3_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-16 00:30:41
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130379981
+Acceptance rate (Metr.)    = 0.503009
+Execution time             = 212.291454 s
+File                       = data/Wb_R3_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-16 00:34:14
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130399760
+Acceptance rate (Metr.)    = 0.503085
+Execution time             = 212.982769 s
+File                       = data/Wb_R3_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-16 00:37:48
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130366674
+Acceptance rate (Metr.)    = 0.502958
+Execution time             = 214.290898 s
+File                       = data/Wb_R3_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-16 00:41:25
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130381301
+Acceptance rate (Metr.)    = 0.503014
+Execution time             = 217.068845 s
+File                       = data/Wb_R3_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-16 00:45:01
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130383256
+Acceptance rate (Metr.)    = 0.503022
+Execution time             = 216.007801 s
+File                       = data/Wb_R3_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-16 00:48:38
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130401838
+Acceptance rate (Metr.)    = 0.503094
+Execution time             = 216.640185 s
+File                       = data/Wb_R3_T7.csv
+========================================
+
+========================================
+Date            = 2026-11-16 00:52:16
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130393949
+Acceptance rate (Metr.)    = 0.503063
+Execution time             = 218.057637 s
+File                       = data/Wb_R3_T8.csv
+========================================
+
+========================================
+Date            = 2026-11-16 00:55:48
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130395383
+Acceptance rate (Metr.)    = 0.503069
+Execution time             = 212.065953 s
+File                       = data/Wb_R4_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-16 00:59:21
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130387049
+Acceptance rate (Metr.)    = 0.503036
+Execution time             = 212.932646 s
+File                       = data/Wb_R4_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-16 01:02:56
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130391877
+Acceptance rate (Metr.)    = 0.503055
+Execution time             = 215.267165 s
+File                       = data/Wb_R4_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-16 01:06:40
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130391303
+Acceptance rate (Metr.)    = 0.503053
+Execution time             = 223.262926 s
+File                       = data/Wb_R4_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-16 01:10:17
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130401420
+Acceptance rate (Metr.)    = 0.503092
+Execution time             = 217.243614 s
+File                       = data/Wb_R4_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-16 01:13:54
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130397021
+Acceptance rate (Metr.)    = 0.503075
+Execution time             = 216.815858 s
+File                       = data/Wb_R4_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-16 01:17:32
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130388642
+Acceptance rate (Metr.)    = 0.503043
+Execution time             = 217.850700 s
+File                       = data/Wb_R4_T7.csv
+========================================
+
+========================================
+Date            = 2026-11-16 01:21:11
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130395073
+Acceptance rate (Metr.)    = 0.503067
+Execution time             = 218.956733 s
+File                       = data/Wb_R4_T8.csv
+========================================
+
+========================================
+Date            = 2026-11-16 01:24:43
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130391261
+Acceptance rate (Metr.)    = 0.503053
+Execution time             = 212.740715 s
+File                       = data/Wb_R5_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-16 01:28:17
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130385051
+Acceptance rate (Metr.)    = 0.503029
+Execution time             = 213.804979 s
+File                       = data/Wb_R5_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-16 01:31:52
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130382959
+Acceptance rate (Metr.)    = 0.503021
+Execution time             = 214.966287 s
+File                       = data/Wb_R5_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-16 01:35:28
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130370446
+Acceptance rate (Metr.)    = 0.502972
+Execution time             = 215.705758 s
+File                       = data/Wb_R5_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-16 01:39:05
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130389201
+Acceptance rate (Metr.)    = 0.503045
+Execution time             = 216.960542 s
+File                       = data/Wb_R5_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-16 01:42:44
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130401160
+Acceptance rate (Metr.)    = 0.503091
+Execution time             = 219.131046 s
+File                       = data/Wb_R5_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-16 01:46:23
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130384901
+Acceptance rate (Metr.)    = 0.503028
+Execution time             = 218.953071 s
+File                       = data/Wb_R5_T7.csv
+========================================
+
+========================================
+Date            = 2026-11-16 01:50:03
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130383491
+Acceptance rate (Metr.)    = 0.503023
+Execution time             = 219.804437 s
+File                       = data/Wb_R5_T8.csv
+========================================
+
+========================================
+Date            = 2026-11-16 01:53:36
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130380832
+Acceptance rate (Metr.)    = 0.503012
+Execution time             = 213.651894 s
+File                       = data/Wb_R6_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-16 01:57:11
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130381896
+Acceptance rate (Metr.)    = 0.503017
+Execution time             = 214.884184 s
+File                       = data/Wb_R6_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-16 02:00:49
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130387613
+Acceptance rate (Metr.)    = 0.503039
+Execution time             = 218.069632 s
+File                       = data/Wb_R6_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-16 02:04:26
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130379804
+Acceptance rate (Metr.)    = 0.503009
+Execution time             = 216.946269 s
+File                       = data/Wb_R6_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-16 02:08:04
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130387193
+Acceptance rate (Metr.)    = 0.503037
+Execution time             = 217.835865 s
+File                       = data/Wb_R6_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-16 02:11:43
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130382574
+Acceptance rate (Metr.)    = 0.503019
+Execution time             = 218.621956 s
+File                       = data/Wb_R6_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-16 02:15:23
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130391264
+Acceptance rate (Metr.)    = 0.503053
+Execution time             = 219.915713 s
+File                       = data/Wb_R6_T7.csv
+========================================
+
+========================================
+Date            = 2026-11-16 02:19:03
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130398620
+Acceptance rate (Metr.)    = 0.503081
+Execution time             = 220.543494 s
+File                       = data/Wb_R6_T8.csv
+========================================
+
+========================================
+Date            = 2026-11-16 02:22:39
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130395444
+Acceptance rate (Metr.)    = 0.503069
+Execution time             = 215.755578 s
+File                       = data/Wb_R7_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-16 02:26:15
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130372534
+Acceptance rate (Metr.)    = 0.502980
+Execution time             = 215.690960 s
+File                       = data/Wb_R7_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-16 02:29:51
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130381122
+Acceptance rate (Metr.)    = 0.503014
+Execution time             = 215.982136 s
+File                       = data/Wb_R7_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-16 02:33:29
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130392550
+Acceptance rate (Metr.)    = 0.503058
+Execution time             = 218.254515 s
+File                       = data/Wb_R7_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-16 02:37:12
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130393942
+Acceptance rate (Metr.)    = 0.503063
+Execution time             = 222.995798 s
+File                       = data/Wb_R7_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-16 02:40:51
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130376427
+Acceptance rate (Metr.)    = 0.502995
+Execution time             = 219.104973 s
+File                       = data/Wb_R7_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-16 02:44:32
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130392552
+Acceptance rate (Metr.)    = 0.503058
+Execution time             = 220.842341 s
+File                       = data/Wb_R7_T7.csv
+========================================
+
+========================================
+Date            = 2026-11-16 02:48:14
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130382956
+Acceptance rate (Metr.)    = 0.503021
+Execution time             = 221.752263 s
+File                       = data/Wb_R7_T8.csv
+========================================
+
+========================================
+Date            = 2026-11-16 02:51:49
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130388013
+Acceptance rate (Metr.)    = 0.503040
+Execution time             = 215.330605 s
+File                       = data/Wb_R8_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-16 02:55:26
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130388613
+Acceptance rate (Metr.)    = 0.503042
+Execution time             = 217.532223 s
+File                       = data/Wb_R8_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-16 02:59:04
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130380453
+Acceptance rate (Metr.)    = 0.503011
+Execution time             = 217.965265 s
+File                       = data/Wb_R8_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-16 03:02:44
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130381085
+Acceptance rate (Metr.)    = 0.503013
+Execution time             = 219.508730 s
+File                       = data/Wb_R8_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-16 03:06:24
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130378942
+Acceptance rate (Metr.)    = 0.503005
+Execution time             = 219.781517 s
+File                       = data/Wb_R8_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-16 03:10:04
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130381925
+Acceptance rate (Metr.)    = 0.503017
+Execution time             = 220.728861 s
+File                       = data/Wb_R8_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-16 03:13:46
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130386193
+Acceptance rate (Metr.)    = 0.503033
+Execution time             = 221.993152 s
+File                       = data/Wb_R8_T7.csv
+========================================
+
+========================================
+Date            = 2026-11-16 03:17:29
+L                          = 36
+V                          = 1296
+N_links                    = 2592
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 130383892
+Acceptance rate (Metr.)    = 0.503024
+Execution time             = 223.044171 s
+File                       = data/Wb_R8_T8.csv
+========================================
+
+========================================
+Date            = 2026-11-16 09:08:30
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40241951
+Acceptance rate (Metr.)    = 0.503024
+Execution time             = 64.973662 s
+Multihit                   = Y
+File                       = data/Wc_R1_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-16 09:09:35
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40234509
+Acceptance rate (Metr.)    = 0.502931
+Execution time             = 65.539083 s
+Multihit                   = Y
+File                       = data/Wc_R1_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-16 09:10:41
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40240209
+Acceptance rate (Metr.)    = 0.503003
+Execution time             = 65.922715 s
+Multihit                   = Y
+File                       = data/Wc_R1_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-16 09:11:47
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40247525
+Acceptance rate (Metr.)    = 0.503094
+Execution time             = 66.168841 s
+Multihit                   = Y
+File                       = data/Wc_R1_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-16 09:12:54
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40240989
+Acceptance rate (Metr.)    = 0.503012
+Execution time             = 66.362624 s
+Multihit                   = Y
+File                       = data/Wc_R1_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-16 09:14:01
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40240863
+Acceptance rate (Metr.)    = 0.503011
+Execution time             = 66.730751 s
+Multihit                   = Y
+File                       = data/Wc_R1_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-16 09:15:08
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40251204
+Acceptance rate (Metr.)    = 0.503140
+Execution time             = 67.012047 s
+Multihit                   = Y
+File                       = data/Wc_R1_T7.csv
+========================================
+
+========================================
+Date            = 2026-11-16 09:16:16
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40243391
+Acceptance rate (Metr.)    = 0.503042
+Execution time             = 68.399148 s
+Multihit                   = Y
+File                       = data/Wc_R1_T8.csv
+========================================
+
+========================================
+Date            = 2026-11-16 09:19:40
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40240570
+Acceptance rate (Metr.)    = 0.503007
+Execution time             = 203.542746 s
+Multihit                   = Y
+File                       = data/Wc_R2_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-16 09:23:04
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40241961
+Acceptance rate (Metr.)    = 0.503025
+Execution time             = 204.020826 s
+Multihit                   = Y
+File                       = data/Wc_R2_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-16 09:26:27
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40239076
+Acceptance rate (Metr.)    = 0.502988
+Execution time             = 203.716412 s
+Multihit                   = Y
+File                       = data/Wc_R2_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-16 09:29:51
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40241779
+Acceptance rate (Metr.)    = 0.503022
+Execution time             = 203.647276 s
+Multihit                   = Y
+File                       = data/Wc_R2_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-16 09:33:15
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40247150
+Acceptance rate (Metr.)    = 0.503089
+Execution time             = 204.411235 s
+Multihit                   = Y
+File                       = data/Wc_R2_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-16 09:36:40
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40233905
+Acceptance rate (Metr.)    = 0.502924
+Execution time             = 204.506234 s
+Multihit                   = Y
+File                       = data/Wc_R2_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-16 09:40:05
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40246745
+Acceptance rate (Metr.)    = 0.503084
+Execution time             = 205.115985 s
+Multihit                   = Y
+File                       = data/Wc_R2_T7.csv
+========================================
+
+========================================
+Date            = 2026-11-16 09:43:31
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40237366
+Acceptance rate (Metr.)    = 0.502967
+Execution time             = 205.555132 s
+Multihit                   = Y
+File                       = data/Wc_R2_T8.csv
+========================================
+
+========================================
+Date            = 2026-11-16 09:46:54
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40243968
+Acceptance rate (Metr.)    = 0.503050
+Execution time             = 203.310248 s
+Multihit                   = Y
+File                       = data/Wc_R3_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-16 09:50:18
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40242805
+Acceptance rate (Metr.)    = 0.503035
+Execution time             = 203.660036 s
+Multihit                   = Y
+File                       = data/Wc_R3_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-16 09:53:42
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40244488
+Acceptance rate (Metr.)    = 0.503056
+Execution time             = 204.024060 s
+Multihit                   = Y
+File                       = data/Wc_R3_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-16 09:57:06
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40242240
+Acceptance rate (Metr.)    = 0.503028
+Execution time             = 204.354554 s
+Multihit                   = Y
+File                       = data/Wc_R3_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-16 10:00:31
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40246077
+Acceptance rate (Metr.)    = 0.503076
+Execution time             = 204.728804 s
+Multihit                   = Y
+File                       = data/Wc_R3_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-16 10:03:55
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40239065
+Acceptance rate (Metr.)    = 0.502988
+Execution time             = 204.741521 s
+Multihit                   = Y
+File                       = data/Wc_R3_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-16 10:07:22
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40239444
+Acceptance rate (Metr.)    = 0.502993
+Execution time             = 206.725271 s
+Multihit                   = Y
+File                       = data/Wc_R3_T7.csv
+========================================
+
+========================================
+Date            = 2026-11-16 10:10:47
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40250746
+Acceptance rate (Metr.)    = 0.503134
+Execution time             = 205.060108 s
+Multihit                   = Y
+File                       = data/Wc_R3_T8.csv
+========================================
+
+========================================
+Date            = 2026-11-16 10:14:11
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40235313
+Acceptance rate (Metr.)    = 0.502941
+Execution time             = 203.495854 s
+Multihit                   = Y
+File                       = data/Wc_R4_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-16 10:17:28
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40235525
+Acceptance rate (Metr.)    = 0.502944
+Execution time             = 197.353056 s
+Multihit                   = Y
+File                       = data/Wc_R4_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-16 10:20:49
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40237722
+Acceptance rate (Metr.)    = 0.502972
+Execution time             = 200.871056 s
+Multihit                   = Y
+File                       = data/Wc_R4_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-16 10:24:15
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40238030
+Acceptance rate (Metr.)    = 0.502975
+Execution time             = 205.818134 s
+Multihit                   = Y
+File                       = data/Wc_R4_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-16 10:27:41
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40246745
+Acceptance rate (Metr.)    = 0.503084
+Execution time             = 206.270525 s
+Multihit                   = Y
+File                       = data/Wc_R4_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-16 10:31:06
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40236555
+Acceptance rate (Metr.)    = 0.502957
+Execution time             = 204.787438 s
+Multihit                   = Y
+File                       = data/Wc_R4_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-16 10:34:32
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40243345
+Acceptance rate (Metr.)    = 0.503042
+Execution time             = 205.706782 s
+Multihit                   = Y
+File                       = data/Wc_R4_T7.csv
+========================================
+
+========================================
+Date            = 2026-11-16 10:38:00
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40245883
+Acceptance rate (Metr.)    = 0.503074
+Execution time             = 208.020228 s
+Multihit                   = Y
+File                       = data/Wc_R4_T8.csv
+========================================
+
+========================================
+Date            = 2026-11-16 10:41:25
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40234292
+Acceptance rate (Metr.)    = 0.502929
+Execution time             = 205.320107 s
+Multihit                   = Y
+File                       = data/Wc_R5_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-16 10:44:50
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40236829
+Acceptance rate (Metr.)    = 0.502960
+Execution time             = 204.816003 s
+Multihit                   = Y
+File                       = data/Wc_R5_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-16 10:48:11
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40245750
+Acceptance rate (Metr.)    = 0.503072
+Execution time             = 201.146297 s
+Multihit                   = Y
+File                       = data/Wc_R5_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-16 10:51:29
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40240882
+Acceptance rate (Metr.)    = 0.503011
+Execution time             = 198.255369 s
+Multihit                   = Y
+File                       = data/Wc_R5_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-16 10:54:50
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40233289
+Acceptance rate (Metr.)    = 0.502916
+Execution time             = 200.598537 s
+Multihit                   = Y
+File                       = data/Wc_R5_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-16 10:58:07
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40245570
+Acceptance rate (Metr.)    = 0.503070
+Execution time             = 197.530185 s
+Multihit                   = Y
+File                       = data/Wc_R5_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-16 11:01:31
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40239241
+Acceptance rate (Metr.)    = 0.502991
+Execution time             = 203.365936 s
+Multihit                   = Y
+File                       = data/Wc_R5_T7.csv
+========================================
+
+========================================
+Date            = 2026-11-16 11:04:57
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40234211
+Acceptance rate (Metr.)    = 0.502928
+Execution time             = 206.322743 s
+Multihit                   = Y
+File                       = data/Wc_R5_T8.csv
+========================================
+
+========================================
+Date            = 2026-11-16 11:08:17
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40245397
+Acceptance rate (Metr.)    = 0.503067
+Execution time             = 200.576188 s
+Multihit                   = Y
+File                       = data/Wc_R6_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-16 11:11:43
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40251120
+Acceptance rate (Metr.)    = 0.503139
+Execution time             = 205.022726 s
+Multihit                   = Y
+File                       = data/Wc_R6_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-16 11:14:57
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40255784
+Acceptance rate (Metr.)    = 0.503197
+Execution time             = 194.758666 s
+Multihit                   = Y
+File                       = data/Wc_R6_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-16 11:18:21
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40245257
+Acceptance rate (Metr.)    = 0.503066
+Execution time             = 203.346053 s
+Multihit                   = Y
+File                       = data/Wc_R6_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-16 11:21:47
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40240348
+Acceptance rate (Metr.)    = 0.503004
+Execution time             = 206.105623 s
+Multihit                   = Y
+File                       = data/Wc_R6_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-16 11:25:19
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40242381
+Acceptance rate (Metr.)    = 0.503030
+Execution time             = 212.017856 s
+Multihit                   = Y
+File                       = data/Wc_R6_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-16 11:28:36
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40238219
+Acceptance rate (Metr.)    = 0.502978
+Execution time             = 197.226593 s
+Multihit                   = Y
+File                       = data/Wc_R6_T7.csv
+========================================
+
+========================================
+Date            = 2026-11-16 11:32:01
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40233780
+Acceptance rate (Metr.)    = 0.502922
+Execution time             = 204.729284 s
+Multihit                   = Y
+File                       = data/Wc_R6_T8.csv
+========================================
+
+========================================
+Date            = 2026-11-16 11:35:26
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40238147
+Acceptance rate (Metr.)    = 0.502977
+Execution time             = 205.570866 s
+Multihit                   = Y
+File                       = data/Wc_R7_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-16 11:38:49
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40237998
+Acceptance rate (Metr.)    = 0.502975
+Execution time             = 202.495249 s
+Multihit                   = Y
+File                       = data/Wc_R7_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-16 11:42:15
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40240307
+Acceptance rate (Metr.)    = 0.503004
+Execution time             = 206.084959 s
+Multihit                   = Y
+File                       = data/Wc_R7_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-16 11:45:41
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40252952
+Acceptance rate (Metr.)    = 0.503162
+Execution time             = 206.469555 s
+Multihit                   = Y
+File                       = data/Wc_R7_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-16 11:49:08
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40241381
+Acceptance rate (Metr.)    = 0.503017
+Execution time             = 206.331726 s
+Multihit                   = Y
+File                       = data/Wc_R7_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-16 11:52:35
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40241658
+Acceptance rate (Metr.)    = 0.503021
+Execution time             = 207.548082 s
+Multihit                   = Y
+File                       = data/Wc_R7_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-16 11:56:02
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40240138
+Acceptance rate (Metr.)    = 0.503002
+Execution time             = 206.782994 s
+Multihit                   = Y
+File                       = data/Wc_R7_T7.csv
+========================================
+
+========================================
+Date            = 2026-11-16 11:59:25
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40243609
+Acceptance rate (Metr.)    = 0.503045
+Execution time             = 203.015880 s
+Multihit                   = Y
+File                       = data/Wc_R7_T8.csv
+========================================
+
+========================================
+Date            = 2026-11-16 12:02:50
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40253003
+Acceptance rate (Metr.)    = 0.503163
+Execution time             = 205.238644 s
+Multihit                   = Y
+File                       = data/Wc_R8_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-16 12:06:16
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40246777
+Acceptance rate (Metr.)    = 0.503085
+Execution time             = 205.809568 s
+Multihit                   = Y
+File                       = data/Wc_R8_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-16 12:09:36
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40238227
+Acceptance rate (Metr.)    = 0.502978
+Execution time             = 199.543430 s
+Multihit                   = Y
+File                       = data/Wc_R8_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-16 12:13:02
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40254604
+Acceptance rate (Metr.)    = 0.503183
+Execution time             = 206.006232 s
+Multihit                   = Y
+File                       = data/Wc_R8_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-16 12:16:28
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40236717
+Acceptance rate (Metr.)    = 0.502959
+Execution time             = 206.385283 s
+Multihit                   = Y
+File                       = data/Wc_R8_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-16 12:19:55
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40244521
+Acceptance rate (Metr.)    = 0.503057
+Execution time             = 206.836065 s
+Multihit                   = Y
+File                       = data/Wc_R8_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-16 12:23:22
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40241140
+Acceptance rate (Metr.)    = 0.503014
+Execution time             = 206.903346 s
+Multihit                   = Y
+File                       = data/Wc_R8_T7.csv
+========================================
+
+========================================
+Date            = 2026-11-16 12:26:49
+L                          = 20
+V                          = 400
+N_links                    = 800
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 40231272
+Acceptance rate (Metr.)    = 0.502891
+Execution time             = 207.315155 s
+Multihit                   = Y
+File                       = data/Wc_R8_T8.csv
 ========================================
 

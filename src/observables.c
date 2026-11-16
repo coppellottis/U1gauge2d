@@ -62,6 +62,69 @@ double wilson_loop(Lattice* lat, int R, int T) {
 }
 
 /* Multi-hit*/
-double wilson_loop_mh(Lattice* lat, int R, int T, int N) {
 
+static void multihit_links(Lattice* lat, int mu, int n_hit, pcg32_random_t* rng, double* rho, double* psi) {
+    double param[2];
+
+    for(int s = 0; s<lat->V; s++) {
+        // vonmises_param(lat, s, mu, param); 
+
+        // double phi = param[0];
+        // double k = param[1];
+
+        double X = 0.0, Y = 0.0;
+        for(int i = 0; i<n_hit; i++) {
+            double th = vonmises_sample(lat, s, mu, rng);
+
+            X += cos(th);
+            Y += sin(th);
+        }
+        
+        rho[s] = hypot(X, Y) / n_hit; 
+        psi[s] = atan2(Y, X);
+    }
+
+    return;
+}
+
+double wilson_loop_mh(Lattice* lat, int R, int T, int n_hit, pcg32_random_t* rng) {
+    double sum_cos_th = 0.0;
+    int V = lat->V;
+
+    double* rho = malloc(V*sizeof(double));
+    double* psi = malloc(V*sizeof(double));
+
+    multihit_links(lat, 1, n_hit, rng, rho, psi);
+
+    for (int s = 0; s < V; s++) {
+        double sum_th = 0.0;
+        double prod   = 1.0;                    
+        int curr = s;
+
+        for (int r = 0; r < R; r++) {           /* lato spaziale: invariato */
+            sum_th += lat->th[2*curr+0];
+            curr = lat->up[2*curr+0];
+        }
+        for (int t = 0; t < T; t++) {           /* lato temporale in avanti */
+            prod   *= rho[curr];
+            sum_th += psi[curr];
+            curr = lat->up[2*curr+1];
+        }
+        for (int r = 0; r < R; r++) {           /* lato spaziale: invariato */
+            curr = lat->dn[2*curr+0];
+            sum_th -= lat->th[2*curr+0];
+        }
+        for (int t = 0; t < T; t++) {           /* lato temporale all'indietro */
+            curr = lat->dn[2*curr+1];
+            prod   *= rho[curr];
+            sum_th -= psi[curr];
+        }
+
+        sum_cos_th += prod * cos(sum_th);
+    }
+
+    free(rho);
+    free(psi);
+
+    return sum_cos_th / V;
 }
