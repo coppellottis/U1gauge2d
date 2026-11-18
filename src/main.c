@@ -21,9 +21,11 @@ int main(int argc, char *argv[]) {
     const char *filename = (argc > 4) ? argv[4] : "test";
     int R = (argc > 5) ? atoi(argv[5]) : 1;
     int T = (argc > 6) ? atoi(argv[6]) : 1;
+    uint64_t seed = (argc > 7) ? strtoull(argv[7], NULL, 10) : (uint64_t)time(NULL);
 
     pcg32_random_t rng;
-    pcg32_srandom_r(&rng, (uint64_t)time(NULL), 42u);  
+    pcg32_srandom_r(&rng, seed, seed);   // stato e stream distinti per ogni run
+    printf("seed = %llu\n", (unsigned long long)seed);
 
     Lattice* lat = init_lattice(L, beta, 1, &rng);
     simulation(lat, n_sweep, &rng, filename, R, T);

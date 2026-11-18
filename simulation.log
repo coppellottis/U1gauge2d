@@ -2750,3 +2750,2553 @@ Multihit                   = Y
 File                       = data/Wc_R8_T8.csv
 ========================================
 
+========================================
+Date            = 2026-11-17 16:17:33
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25757451
+Acceptance rate (Metr.)    = 0.503075
+Execution time             = 43.505847 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R1_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:17:34
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25762117
+Acceptance rate (Metr.)    = 0.503166
+Execution time             = 44.086983 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R1_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:17:34
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25751804
+Acceptance rate (Metr.)    = 0.502965
+Execution time             = 44.141104 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R1_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:17:34
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25753825
+Acceptance rate (Metr.)    = 0.503004
+Execution time             = 44.387356 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R1_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:18:18
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25754392
+Acceptance rate (Metr.)    = 0.503015
+Execution time             = 44.533367 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R1_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:18:18
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25750618
+Acceptance rate (Metr.)    = 0.502942
+Execution time             = 44.795806 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R1_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:19:50
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25758361
+Acceptance rate (Metr.)    = 0.503093
+Execution time             = 136.074994 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R2_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:19:51
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25756643
+Acceptance rate (Metr.)    = 0.503059
+Execution time             = 136.793843 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R2_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:20:35
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25746639
+Acceptance rate (Metr.)    = 0.502864
+Execution time             = 137.192656 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R2_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:20:36
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25753877
+Acceptance rate (Metr.)    = 0.503005
+Execution time             = 137.507375 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R2_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:22:04
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25754148
+Acceptance rate (Metr.)    = 0.503011
+Execution time             = 134.684311 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R2_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:22:07
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25755695
+Acceptance rate (Metr.)    = 0.503041
+Execution time             = 136.229555 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R2_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:22:48
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25756067
+Acceptance rate (Metr.)    = 0.503048
+Execution time             = 133.498468 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R3_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:22:50
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25756027
+Acceptance rate (Metr.)    = 0.503047
+Execution time             = 133.857662 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R3_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:24:22
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25759130
+Acceptance rate (Metr.)    = 0.503108
+Execution time             = 137.075330 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R3_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:24:24
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25756724
+Acceptance rate (Metr.)    = 0.503061
+Execution time             = 136.781269 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R3_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:25:06
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25753681
+Acceptance rate (Metr.)    = 0.503002
+Execution time             = 137.525725 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R3_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:25:07
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25750472
+Acceptance rate (Metr.)    = 0.502939
+Execution time             = 137.484707 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R3_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:26:39
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25759740
+Acceptance rate (Metr.)    = 0.503120
+Execution time             = 137.463419 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R4_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:26:41
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25750178
+Acceptance rate (Metr.)    = 0.502933
+Execution time             = 136.989780 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R4_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:27:23
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25756767
+Acceptance rate (Metr.)    = 0.503062
+Execution time             = 137.160180 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R4_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:27:25
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25748376
+Acceptance rate (Metr.)    = 0.502898
+Execution time             = 137.245804 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R4_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:28:55
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25754459
+Acceptance rate (Metr.)    = 0.503017
+Execution time             = 136.220211 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R4_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:28:57
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25754452
+Acceptance rate (Metr.)    = 0.503017
+Execution time             = 136.474255 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R4_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:29:38
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25754566
+Acceptance rate (Metr.)    = 0.503019
+Execution time             = 135.315138 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R5_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:29:40
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25754492
+Acceptance rate (Metr.)    = 0.503017
+Execution time             = 135.499555 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R5_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:31:11
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25752339
+Acceptance rate (Metr.)    = 0.502975
+Execution time             = 136.044629 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R5_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:31:13
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25749721
+Acceptance rate (Metr.)    = 0.502924
+Execution time             = 135.859365 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R5_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:31:55
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25764999
+Acceptance rate (Metr.)    = 0.503223
+Execution time             = 136.743214 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R5_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:31:57
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25750485
+Acceptance rate (Metr.)    = 0.502939
+Execution time             = 136.698906 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R5_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:33:27
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25753632
+Acceptance rate (Metr.)    = 0.503001
+Execution time             = 135.995731 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R6_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:33:30
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25750638
+Acceptance rate (Metr.)    = 0.502942
+Execution time             = 136.772720 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R6_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:34:13
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25754196
+Acceptance rate (Metr.)    = 0.503012
+Execution time             = 138.114744 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R6_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:34:14
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25751943
+Acceptance rate (Metr.)    = 0.502968
+Execution time             = 137.413050 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R6_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:35:45
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25749031
+Acceptance rate (Metr.)    = 0.502911
+Execution time             = 137.672217 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R6_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:35:48
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25759365
+Acceptance rate (Metr.)    = 0.503113
+Execution time             = 137.650258 s
+Multihit                   = Y
+File                       = data/sigma/W_L16_beta2_R6_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:35:59
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52743657
+Acceptance rate (Metr.)    = 0.457844
+Execution time             = 106.100087 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R1_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:36:02
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52732438
+Acceptance rate (Metr.)    = 0.457747
+Execution time             = 107.536588 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R1_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:37:33
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52739442
+Acceptance rate (Metr.)    = 0.457808
+Execution time             = 108.237910 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R1_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:37:36
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52732556
+Acceptance rate (Metr.)    = 0.457748
+Execution time             = 108.745964 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R1_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:37:49
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52728921
+Acceptance rate (Metr.)    = 0.457716
+Execution time             = 109.299187 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R1_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:37:52
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52737587
+Acceptance rate (Metr.)    = 0.457792
+Execution time             = 109.961969 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R1_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:43:50
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52730674
+Acceptance rate (Metr.)    = 0.457732
+Execution time             = 377.123471 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R2_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:43:59
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52735154
+Acceptance rate (Metr.)    = 0.457770
+Execution time             = 382.291547 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R2_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:44:07
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52731681
+Acceptance rate (Metr.)    = 0.457740
+Execution time             = 378.420346 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R2_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:44:09
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52730968
+Acceptance rate (Metr.)    = 0.457734
+Execution time             = 377.693001 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R2_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:50:18
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52738271
+Acceptance rate (Metr.)    = 0.457797
+Execution time             = 387.783000 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R2_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:50:23
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52732460
+Acceptance rate (Metr.)    = 0.457747
+Execution time             = 384.609885 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R2_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:50:29
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52730153
+Acceptance rate (Metr.)    = 0.457727
+Execution time             = 382.221404 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R3_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:50:31
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52739575
+Acceptance rate (Metr.)    = 0.457809
+Execution time             = 381.314938 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R3_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:56:41
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52737108
+Acceptance rate (Metr.)    = 0.457787
+Execution time             = 382.276426 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R3_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:56:47
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52729366
+Acceptance rate (Metr.)    = 0.457720
+Execution time             = 383.239109 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R3_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:56:52
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52740608
+Acceptance rate (Metr.)    = 0.457818
+Execution time             = 382.656789 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R3_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-17 16:56:54
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52729164
+Acceptance rate (Metr.)    = 0.457718
+Execution time             = 383.470126 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R3_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-17 17:03:05
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52736551
+Acceptance rate (Metr.)    = 0.457783
+Execution time             = 384.282933 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R4_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-17 17:03:10
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52725391
+Acceptance rate (Metr.)    = 0.457686
+Execution time             = 383.031602 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R4_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-17 17:03:16
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52735850
+Acceptance rate (Metr.)    = 0.457776
+Execution time             = 383.807410 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R4_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-17 17:03:19
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52737572
+Acceptance rate (Metr.)    = 0.457791
+Execution time             = 384.192768 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R4_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-17 17:09:26
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52738927
+Acceptance rate (Metr.)    = 0.457803
+Execution time             = 380.700925 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R4_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-17 17:09:31
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52741498
+Acceptance rate (Metr.)    = 0.457826
+Execution time             = 380.897058 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R4_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-17 17:09:33
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52734880
+Acceptance rate (Metr.)    = 0.457768
+Execution time             = 377.610053 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R5_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-17 17:09:37
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52739706
+Acceptance rate (Metr.)    = 0.457810
+Execution time             = 378.774875 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R5_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-17 17:15:45
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52736301
+Acceptance rate (Metr.)    = 0.457780
+Execution time             = 379.685285 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R5_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-17 17:15:49
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52742254
+Acceptance rate (Metr.)    = 0.457832
+Execution time             = 378.549748 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R5_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-17 17:15:55
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52737122
+Acceptance rate (Metr.)    = 0.457788
+Execution time             = 381.764435 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R5_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-17 17:15:58
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52730589
+Acceptance rate (Metr.)    = 0.457731
+Execution time             = 380.838503 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R5_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-17 17:22:04
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52743663
+Acceptance rate (Metr.)    = 0.457844
+Execution time             = 378.406876 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R6_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-17 17:22:10
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52736573
+Acceptance rate (Metr.)    = 0.457783
+Execution time             = 380.866732 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R6_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-17 17:22:13
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52733723
+Acceptance rate (Metr.)    = 0.457758
+Execution time             = 377.467521 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R6_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-17 17:22:20
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52736820
+Acceptance rate (Metr.)    = 0.457785
+Execution time             = 382.055039 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R6_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-17 17:25:08
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70284994
+Acceptance rate (Metr.)    = 0.448246
+Execution time             = 175.309450 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R1_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-17 17:25:15
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70273266
+Acceptance rate (Metr.)    = 0.448171
+Execution time             = 174.671301 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R1_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-17 17:28:09
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70286462
+Acceptance rate (Metr.)    = 0.448255
+Execution time             = 181.129393 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R1_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-17 17:28:13
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70296191
+Acceptance rate (Metr.)    = 0.448318
+Execution time             = 177.586229 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R1_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-17 17:28:24
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52737871
+Acceptance rate (Metr.)    = 0.457794
+Execution time             = 380.487602 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R6_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-17 17:28:30
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52736342
+Acceptance rate (Metr.)    = 0.457781
+Execution time             = 379.840599 s
+Multihit                   = Y
+File                       = data/sigma/W_L24_beta4_R6_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-17 17:31:06
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70282544
+Acceptance rate (Metr.)    = 0.448231
+Execution time             = 176.420718 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R1_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-17 17:31:10
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70290561
+Acceptance rate (Metr.)    = 0.448282
+Execution time             = 177.613314 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R1_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-17 17:40:23
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70290582
+Acceptance rate (Metr.)    = 0.448282
+Execution time             = 718.378702 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R2_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-17 17:40:31
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70278989
+Acceptance rate (Metr.)    = 0.448208
+Execution time             = 720.935377 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R2_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-17 17:43:07
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70285830
+Acceptance rate (Metr.)    = 0.448251
+Execution time             = 721.149555 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R2_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-17 17:43:14
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70284146
+Acceptance rate (Metr.)    = 0.448241
+Execution time             = 723.737059 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R2_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-17 17:52:32
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70282119
+Acceptance rate (Metr.)    = 0.448228
+Execution time             = 729.276302 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R2_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-17 17:52:43
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70280887
+Acceptance rate (Metr.)    = 0.448220
+Execution time             = 731.645652 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R2_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-17 17:55:18
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70276108
+Acceptance rate (Metr.)    = 0.448189
+Execution time             = 731.273230 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R3_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-17 17:55:22
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70279038
+Acceptance rate (Metr.)    = 0.448208
+Execution time             = 728.123793 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R3_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-17 18:04:35
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70284724
+Acceptance rate (Metr.)    = 0.448244
+Execution time             = 722.882753 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R3_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-17 18:04:50
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70290453
+Acceptance rate (Metr.)    = 0.448281
+Execution time             = 727.566672 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R3_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-17 18:07:19
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70263345
+Acceptance rate (Metr.)    = 0.448108
+Execution time             = 721.266924 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R3_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-17 18:07:25
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70280925
+Acceptance rate (Metr.)    = 0.448220
+Execution time             = 722.700875 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R3_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-17 18:16:26
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70282168
+Acceptance rate (Metr.)    = 0.448228
+Execution time             = 711.178753 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R4_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-17 18:16:44
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70282207
+Acceptance rate (Metr.)    = 0.448228
+Execution time             = 713.387924 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R4_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-17 18:19:11
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70277486
+Acceptance rate (Metr.)    = 0.448198
+Execution time             = 711.536072 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R4_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-17 18:19:24
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70298467
+Acceptance rate (Metr.)    = 0.448332
+Execution time             = 719.344483 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R4_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-17 18:28:31
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70289692
+Acceptance rate (Metr.)    = 0.448276
+Execution time             = 724.732061 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R4_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-17 18:28:54
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70284183
+Acceptance rate (Metr.)    = 0.448241
+Execution time             = 730.158228 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R4_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-17 18:31:18
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70285011
+Acceptance rate (Metr.)    = 0.448246
+Execution time             = 726.476051 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R5_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-17 18:31:21
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70280422
+Acceptance rate (Metr.)    = 0.448217
+Execution time             = 717.042147 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R5_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-17 18:40:24
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70279886
+Acceptance rate (Metr.)    = 0.448214
+Execution time             = 713.613867 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R5_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-17 18:40:47
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70280536
+Acceptance rate (Metr.)    = 0.448218
+Execution time             = 713.427520 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R5_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-17 18:43:11
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70281272
+Acceptance rate (Metr.)    = 0.448222
+Execution time             = 713.837447 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R5_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-17 18:43:21
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70286153
+Acceptance rate (Metr.)    = 0.448254
+Execution time             = 719.421883 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R5_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-17 18:52:26
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70270668
+Acceptance rate (Metr.)    = 0.448155
+Execution time             = 721.713710 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R6_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-17 18:52:54
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70277349
+Acceptance rate (Metr.)    = 0.448197
+Execution time             = 726.719409 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R6_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-17 18:55:11
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70272388
+Acceptance rate (Metr.)    = 0.448166
+Execution time             = 720.101496 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R6_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-17 18:55:16
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70286687
+Acceptance rate (Metr.)    = 0.448257
+Execution time             = 715.746893 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R6_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-17 19:00:35
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90980340
+Acceptance rate (Metr.)    = 0.444240
+Execution time             = 323.166832 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R1_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-17 19:00:39
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90981550
+Acceptance rate (Metr.)    = 0.444246
+Execution time             = 322.833796 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R1_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-17 19:04:34
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70281599
+Acceptance rate (Metr.)    = 0.448224
+Execution time             = 728.079002 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R6_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-17 19:04:59
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70292608
+Acceptance rate (Metr.)    = 0.448295
+Execution time             = 725.041937 s
+Multihit                   = Y
+File                       = data/sigma/W_L28_beta6_R6_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-17 19:05:54
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90973465
+Acceptance rate (Metr.)    = 0.444206
+Execution time             = 319.008725 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R1_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-17 19:06:09
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90963720
+Acceptance rate (Metr.)    = 0.444159
+Execution time             = 330.075368 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R1_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-17 19:09:58
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90970544
+Acceptance rate (Metr.)    = 0.444192
+Execution time             = 324.099991 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R1_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-17 19:10:27
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90973138
+Acceptance rate (Metr.)    = 0.444205
+Execution time             = 328.183865 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R1_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-17 19:30:33
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90977263
+Acceptance rate (Metr.)    = 0.444225
+Execution time             = 1479.734183 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R2_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-17 19:30:46
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90988629
+Acceptance rate (Metr.)    = 0.444280
+Execution time             = 1476.625558 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R2_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-17 19:35:02
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90979822
+Acceptance rate (Metr.)    = 0.444237
+Execution time             = 1503.756468 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R2_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-17 19:35:33
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90967857
+Acceptance rate (Metr.)    = 0.444179
+Execution time             = 1505.701248 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R2_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-17 19:55:47
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90972238
+Acceptance rate (Metr.)    = 0.444200
+Execution time             = 1514.017241 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R2_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-17 19:56:04
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90975237
+Acceptance rate (Metr.)    = 0.444215
+Execution time             = 1517.469731 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R2_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-17 20:00:07
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90976497
+Acceptance rate (Metr.)    = 0.444221
+Execution time             = 1504.681379 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R3_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-17 20:00:40
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90978746
+Acceptance rate (Metr.)    = 0.444232
+Execution time             = 1506.702250 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R3_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-17 20:20:51
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90978329
+Acceptance rate (Metr.)    = 0.444230
+Execution time             = 1503.203225 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R3_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-17 20:21:02
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90967203
+Acceptance rate (Metr.)    = 0.444176
+Execution time             = 1498.382449 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R3_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-17 20:25:08
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90960567
+Acceptance rate (Metr.)    = 0.444143
+Execution time             = 1501.364148 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R3_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-17 20:25:58
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90987513
+Acceptance rate (Metr.)    = 0.444275
+Execution time             = 1518.845746 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R3_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-17 20:45:41
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90966291
+Acceptance rate (Metr.)    = 0.444171
+Execution time             = 1490.522384 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R4_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-17 20:45:55
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90976664
+Acceptance rate (Metr.)    = 0.444222
+Execution time             = 1493.188785 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R4_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-17 20:50:03
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90989810
+Acceptance rate (Metr.)    = 0.444286
+Execution time             = 1494.480144 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R4_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-17 20:50:51
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90985318
+Acceptance rate (Metr.)    = 0.444264
+Execution time             = 1492.798750 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R4_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-17 21:10:27
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90985606
+Acceptance rate (Metr.)    = 0.444266
+Execution time             = 1485.337224 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R4_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-17 21:10:44
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90988379
+Acceptance rate (Metr.)    = 0.444279
+Execution time             = 1489.194870 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R4_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-17 21:14:46
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90981720
+Acceptance rate (Metr.)    = 0.444247
+Execution time             = 1483.190181 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R5_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-17 21:15:29
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90977958
+Acceptance rate (Metr.)    = 0.444228
+Execution time             = 1477.413101 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R5_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-17 21:35:21
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90981890
+Acceptance rate (Metr.)    = 0.444248
+Execution time             = 1476.273484 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R5_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-17 21:35:25
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90976269
+Acceptance rate (Metr.)    = 0.444220
+Execution time             = 1498.038438 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R5_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-17 21:39:40
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90979787
+Acceptance rate (Metr.)    = 0.444237
+Execution time             = 1493.922607 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R5_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-17 21:40:09
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90971579
+Acceptance rate (Metr.)    = 0.444197
+Execution time             = 1480.021007 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R5_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-17 22:00:09
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90979250
+Acceptance rate (Metr.)    = 0.444235
+Execution time             = 1488.780281 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R6_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-17 22:00:14
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90979846
+Acceptance rate (Metr.)    = 0.444238
+Execution time             = 1489.489649 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R6_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-17 22:04:50
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90997923
+Acceptance rate (Metr.)    = 0.444326
+Execution time             = 1510.100441 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R6_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-17 22:04:59
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90982533
+Acceptance rate (Metr.)    = 0.444251
+Execution time             = 1490.657912 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R6_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-17 22:21:40
+L                          = 40
+V                          = 1600
+N_links                    = 3200
+beta                       = 12.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 140993730
+Acceptance rate (Metr.)    = 0.440605
+Execution time             = 1010.303192 s
+Multihit                   = Y
+File                       = data/sigma/W_L40_beta12_R1_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-17 22:22:01
+L                          = 40
+V                          = 1600
+N_links                    = 3200
+beta                       = 12.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 140974665
+Acceptance rate (Metr.)    = 0.440546
+Execution time             = 1021.956067 s
+Multihit                   = Y
+File                       = data/sigma/W_L40_beta12_R1_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-17 22:25:19
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90986051
+Acceptance rate (Metr.)    = 0.444268
+Execution time             = 1509.208850 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R6_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-17 22:25:22
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90975196
+Acceptance rate (Metr.)    = 0.444215
+Execution time             = 1508.033995 s
+Multihit                   = Y
+File                       = data/sigma/W_L32_beta8_R6_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-17 22:38:13
+L                          = 40
+V                          = 1600
+N_links                    = 3200
+beta                       = 12.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 140987452
+Acceptance rate (Metr.)    = 0.440586
+Execution time             = 993.073259 s
+Multihit                   = Y
+File                       = data/sigma/W_L40_beta12_R1_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-17 22:38:53
+L                          = 40
+V                          = 1600
+N_links                    = 3200
+beta                       = 12.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 140998404
+Acceptance rate (Metr.)    = 0.440620
+Execution time             = 1011.319658 s
+Multihit                   = Y
+File                       = data/sigma/W_L40_beta12_R1_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-17 22:42:08
+L                          = 40
+V                          = 1600
+N_links                    = 3200
+beta                       = 12.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 141053939
+Acceptance rate (Metr.)    = 0.440794
+Execution time             = 1009.600924 s
+Multihit                   = Y
+File                       = data/sigma/W_L40_beta12_R1_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-17 22:42:22
+L                          = 40
+V                          = 1600
+N_links                    = 3200
+beta                       = 12.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 140992334
+Acceptance rate (Metr.)    = 0.440601
+Execution time             = 1019.268751 s
+Multihit                   = Y
+File                       = data/sigma/W_L40_beta12_R1_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-18 00:06:43
+L                          = 40
+V                          = 1600
+N_links                    = 3200
+beta                       = 12.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 140965394
+Acceptance rate (Metr.)    = 0.440517
+Execution time             = 5269.912627 s
+Multihit                   = Y
+File                       = data/sigma/W_L40_beta12_R2_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-18 00:08:06
+L                          = 40
+V                          = 1600
+N_links                    = 3200
+beta                       = 12.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 140962166
+Acceptance rate (Metr.)    = 0.440507
+Execution time             = 5392.611782 s
+Multihit                   = Y
+File                       = data/sigma/W_L40_beta12_R2_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-18 00:09:35
+L                          = 40
+V                          = 1600
+N_links                    = 3200
+beta                       = 12.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 140998122
+Acceptance rate (Metr.)    = 0.440619
+Execution time             = 5246.699286 s
+Multihit                   = Y
+File                       = data/sigma/W_L40_beta12_R2_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-18 00:12:15
+L                          = 40
+V                          = 1600
+N_links                    = 3200
+beta                       = 12.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 140963350
+Acceptance rate (Metr.)    = 0.440510
+Execution time             = 5393.420794 s
+Multihit                   = Y
+File                       = data/sigma/W_L40_beta12_R2_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-18 01:35:21
+L                          = 40
+V                          = 1600
+N_links                    = 3200
+beta                       = 12.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 140998121
+Acceptance rate (Metr.)    = 0.440619
+Execution time             = 5318.585587 s
+Multihit                   = Y
+File                       = data/sigma/W_L40_beta12_R2_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-18 01:37:04
+L                          = 40
+V                          = 1600
+N_links                    = 3200
+beta                       = 12.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 141001999
+Acceptance rate (Metr.)    = 0.440631
+Execution time             = 5337.777299 s
+Multihit                   = Y
+File                       = data/sigma/W_L40_beta12_R2_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-18 01:38:35
+L                          = 40
+V                          = 1600
+N_links                    = 3200
+beta                       = 12.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 140962738
+Acceptance rate (Metr.)    = 0.440509
+Execution time             = 5340.326925 s
+Multihit                   = Y
+File                       = data/sigma/W_L40_beta12_R3_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-18 01:40:26
+L                          = 40
+V                          = 1600
+N_links                    = 3200
+beta                       = 12.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 140985391
+Acceptance rate (Metr.)    = 0.440579
+Execution time             = 5290.943609 s
+Multihit                   = Y
+File                       = data/sigma/W_L40_beta12_R3_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-18 03:03:54
+L                          = 40
+V                          = 1600
+N_links                    = 3200
+beta                       = 12.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 140987084
+Acceptance rate (Metr.)    = 0.440585
+Execution time             = 5312.601199 s
+Multihit                   = Y
+File                       = data/sigma/W_L40_beta12_R3_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-18 03:06:12
+L                          = 40
+V                          = 1600
+N_links                    = 3200
+beta                       = 12.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 140962554
+Acceptance rate (Metr.)    = 0.440508
+Execution time             = 5348.329605 s
+Multihit                   = Y
+File                       = data/sigma/W_L40_beta12_R3_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-18 03:06:47
+L                          = 40
+V                          = 1600
+N_links                    = 3200
+beta                       = 12.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 140966985
+Acceptance rate (Metr.)    = 0.440522
+Execution time             = 5291.087541 s
+Multihit                   = Y
+File                       = data/sigma/W_L40_beta12_R3_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-18 03:09:21
+L                          = 40
+V                          = 1600
+N_links                    = 3200
+beta                       = 12.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 140980566
+Acceptance rate (Metr.)    = 0.440564
+Execution time             = 5334.704828 s
+Multihit                   = Y
+File                       = data/sigma/W_L40_beta12_R3_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-18 04:32:53
+L                          = 40
+V                          = 1600
+N_links                    = 3200
+beta                       = 12.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 141023427
+Acceptance rate (Metr.)    = 0.440698
+Execution time             = 5339.122388 s
+Multihit                   = Y
+File                       = data/sigma/W_L40_beta12_R4_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-18 04:33:43
+L                          = 40
+V                          = 1600
+N_links                    = 3200
+beta                       = 12.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 140979871
+Acceptance rate (Metr.)    = 0.440562
+Execution time             = 5250.782789 s
+Multihit                   = Y
+File                       = data/sigma/W_L40_beta12_R4_T2.csv
+========================================
+
+========================================
+Date            = 2026-11-18 04:36:07
+L                          = 40
+V                          = 1600
+N_links                    = 3200
+beta                       = 12.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 140980147
+Acceptance rate (Metr.)    = 0.440563
+Execution time             = 5360.781522 s
+Multihit                   = Y
+File                       = data/sigma/W_L40_beta12_R4_T3.csv
+========================================
+
+========================================
+Date            = 2026-11-18 04:39:17
+L                          = 40
+V                          = 1600
+N_links                    = 3200
+beta                       = 12.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 140974280
+Acceptance rate (Metr.)    = 0.440545
+Execution time             = 5396.531612 s
+Multihit                   = Y
+File                       = data/sigma/W_L40_beta12_R4_T4.csv
+========================================
+
+========================================
+Date            = 2026-11-18 06:02:17
+L                          = 40
+V                          = 1600
+N_links                    = 3200
+beta                       = 12.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 140980469
+Acceptance rate (Metr.)    = 0.440564
+Execution time             = 5314.029756 s
+Multihit                   = Y
+File                       = data/sigma/W_L40_beta12_R4_T6.csv
+========================================
+
+========================================
+Date            = 2026-11-18 06:02:23
+L                          = 40
+V                          = 1600
+N_links                    = 3200
+beta                       = 12.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 140976194
+Acceptance rate (Metr.)    = 0.440551
+Execution time             = 5370.276491 s
+Multihit                   = Y
+File                       = data/sigma/W_L40_beta12_R4_T5.csv
+========================================
+
+========================================
+Date            = 2026-11-18 06:05:08
+L                          = 40
+V                          = 1600
+N_links                    = 3200
+beta                       = 12.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 140954847
+Acceptance rate (Metr.)    = 0.440484
+Execution time             = 5340.397558 s
+Multihit                   = Y
+File                       = data/sigma/W_L40_beta12_R5_T1.csv
+========================================
+
+========================================
+Date            = 2026-11-18 06:10:05
+L                          = 40
+V                          = 1600
+N_links                    = 3200
+beta                       = 12.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 140988301
+Acceptance rate (Metr.)    = 0.440588
+Execution time             = 5448.175975 s
+Multihit                   = Y
+File                       = data/sigma/W_L40_beta12_R5_T2.csv
+========================================
+

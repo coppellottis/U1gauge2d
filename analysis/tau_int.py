@@ -43,12 +43,12 @@ plt.rcParams.update({
 })
 
 
-W = pd.read_csv("data/Wc_R6_T6.csv").iloc[:,0].to_numpy()
+W = pd.read_csv("data/sigma/W_L40_beta12_R3_T3.csv").iloc[:,0].to_numpy()
 
 N = len(W)
 
 rho = emcee.autocorr.function_1d(W)
-tau, _ = tau_int(rho, 2)
+tau, _ = tau_int(rho, 1000)
 
 print(fr"tau: {tau}, N/tau={(N/tau)}")
 
@@ -59,7 +59,7 @@ fig, ax = plt.subplots(figsize=(12,8))
 rho = emcee.autocorr.function_1d(np.array(W))
 tau = 0.5 + np.cumsum(rho[1:])
 M = np.arange(1, len(rho))
-tau_star, M_star = tau_int(rho,10)
+tau_star, M_star = tau_int(rho,150)
 
 
 ax.plot(M, tau,'-.',label=fr"$W(6,6)$")
@@ -83,5 +83,5 @@ ax.set_ylim(0,2)
 fig.tight_layout()
 
 
-fig.savefig("results/tau_int_test.pdf")
+fig.savefig("results/tau_int_test_1x1.pdf")
 plt.show()

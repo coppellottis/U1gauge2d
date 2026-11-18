@@ -121,8 +121,13 @@ static int hybrid_sweep(Lattice* lat, pcg32_random_t* rng) {
 void simulation(Lattice* lat, int n_sweep, pcg32_random_t* rng, const char* filename, int R, int T) {
 
     char path[256];
-    snprintf(path, sizeof(path), "data/%s.csv", filename);
+    snprintf(path, sizeof(path), "data/sigma/%s.csv", filename);
     FILE* file = fopen(path, "a");
+
+    // if (file == NULL) {
+    //     perror("Errore nell'apertura del file di scrittura per le misure.");
+    //     return;
+    // }
 
     /* Inizio del timer */
     struct timespec start, end;
