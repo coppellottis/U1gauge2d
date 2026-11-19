@@ -20,11 +20,13 @@ for CONFIG in "${CONFIGS[@]}"; do
 
     echo "Starting L=$L beta=$BETA"
 
-    for R in {1..6}; do
-        for T in {1..6}; do
+    R=1
+    T=1
+    # for R in {1..6}; do
+    #     for T in {1..6}; do
 
-            FILE="W_L${L}_beta${BETA}_R${R}_T${T}"
-            LOG="logs/L${L}_b${BETA}_R${R}_T${T}.log"
+            FILE="Q_W_L${L}_beta${BETA}"
+            LOG="logs/L${L}_b${BETA}.log"
 
             # Limita il numero di processi contemporanei
             while [ "$(jobs -rp | wc -l)" -ge "$MAX_JOBS" ]; do
@@ -37,8 +39,8 @@ for CONFIG in "${CONFIGS[@]}"; do
             ./u1gauge2d "$L" "$BETA" "$SWEEPS" \
                 "$FILE" "$R" "$T" "$SEED" > "$LOG" 2>&1 &
 
-        done
-    done
+    #     done
+    # done
 done
 
 # Attende il completamento di tutti i processi

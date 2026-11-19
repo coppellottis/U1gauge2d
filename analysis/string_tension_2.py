@@ -141,6 +141,10 @@ for i, l in enumerate(L):
     # print(f"chi²_r = {chi2_r:.4f}")
 
 
+
+axins.set_xlim(0.999,1.001)
+axins.set_ylim(0.3590, 0.3605)
+
 ax.set_xlabel(r"$r/a$")
 ax.set_ylabel(r"$aV(r)$")
 

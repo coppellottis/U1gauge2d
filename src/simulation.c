@@ -145,17 +145,18 @@ void simulation(Lattice* lat, int n_sweep, pcg32_random_t* rng, const char* file
     for(int i = 0; i < n_sweep; i++) {
         acc += hybrid_sweep(lat, rng);
 
-        int Rm = R, Tm = T;
-        if (R > T && T >= 2) { Rm = T; Tm = R; }
+        int Q = topological_charge(lat);
+        // int Rm = R, Tm = T;
+        // if (R > T && T >= 2) { Rm = T; Tm = R; }
 
-        double W = 0.0;
-        if(Rm < 2 || Rm > lat->L - 2) {
-            W = wilson_loop(lat, Rm, Tm);
-        } else {
-            int n_hit = 10;
-            W = wilson_loop_mh(lat, Rm, Tm, n_hit, rng);
-        }
-        fprintf(file, "%.17g\n", W);
+        // double W = 0.0;
+        // if(Rm < 2 || Rm > lat->L - 2) {
+        //     W = wilson_loop(lat, Rm, Tm);
+        // } else {
+        //     int n_hit = 10;
+        //     W = wilson_loop_mh(lat, Rm, Tm, n_hit, rng);
+        // }
+        fprintf(file, "%d\n", Q);
     }
     fclose(file);
 

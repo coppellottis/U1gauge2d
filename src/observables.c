@@ -27,6 +27,27 @@ double plaq_angle(Lattice* lat, int s) {
     return theta_p;
 }
 
+int topological_charge(Lattice* lat) {
+    double sum_phi = 0.0;
+
+    for (int s = 0; s < lat->V; s++) {
+        /* plaq_angle restituisce l'angolo NON ridotto: va riportato in [-pi,pi) */
+        sum_phi += normalize_angle(plaq_angle(lat, s));
+    }
+
+    double Q = sum_phi / (2.0 * M_PI);
+    int Q_int = (int)lround(Q);
+
+    #ifdef DEBUG
+        if (fabs(Q - Q_int) > 1e-8) {
+            fprintf(stderr, "[FATAL ERROR] Q non intera: Q = %.12f\n", Q);
+            exit(EXIT_FAILURE);
+        }
+    #endif
+
+    return Q_int;
+}
+
 double wilson_loop(Lattice* lat, int R, int T) {
     double sum_cos_th = 0.0;
     int V = lat->V;

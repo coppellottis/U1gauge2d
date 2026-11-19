@@ -42,8 +42,9 @@ plt.rcParams.update({
     "legend.fontsize": 20,
 })
 
+c = np.array([4,3,3,2])
 
-W = pd.read_csv("data/sigma/W_L40_beta12_R3_T3.csv").iloc[:,0].to_numpy()
+W = pd.read_csv("data/sigma/Q_W_L16_beta2.csv").iloc[:,0].to_numpy()
 
 N = len(W)
 
@@ -59,10 +60,10 @@ fig, ax = plt.subplots(figsize=(12,8))
 rho = emcee.autocorr.function_1d(np.array(W))
 tau = 0.5 + np.cumsum(rho[1:])
 M = np.arange(1, len(rho))
-tau_star, M_star = tau_int(rho,150)
+tau_star, M_star = tau_int(rho,4)
 
 
-ax.plot(M, tau,'-.',label=fr"$W(6,6)$")
+ax.plot(M, tau,'-.')
 ax.scatter(M_star, tau_star,color=ax.lines[-1].get_color(), s=80, zorder=5)
 
 # ###########################################

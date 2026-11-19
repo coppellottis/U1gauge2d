@@ -5300,3 +5300,78 @@ Multihit                   = Y
 File                       = data/sigma/W_L40_beta12_R5_T2.csv
 ========================================
 
+========================================
+Date            = 2026-11-19 15:44:35
+L                          = 16
+V                          = 256
+N_links                    = 512
+beta                       = 2.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 25754658
+Acceptance rate (Metr.)    = 0.503021
+Execution time             = 42.444744 s
+Multihit                   = Y
+File                       = data/sigma/Q_W_L16_beta2.csv
+========================================
+
+========================================
+Date            = 2026-11-19 15:45:37
+L                          = 24
+V                          = 576
+N_links                    = 1152
+beta                       = 4.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 52748746
+Acceptance rate (Metr.)    = 0.457888
+Execution time             = 104.349256 s
+Multihit                   = Y
+File                       = data/sigma/Q_W_L24_beta4.csv
+========================================
+
+========================================
+Date            = 2026-11-19 15:46:47
+L                          = 28
+V                          = 784
+N_links                    = 1568
+beta                       = 6.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 70282061
+Acceptance rate (Metr.)    = 0.448227
+Execution time             = 174.278292 s
+Multihit                   = Y
+File                       = data/sigma/Q_W_L28_beta6.csv
+========================================
+
+========================================
+Date            = 2026-11-19 15:49:02
+L                          = 32
+V                          = 1024
+N_links                    = 2048
+beta                       = 8.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 90987749
+Acceptance rate (Metr.)    = 0.444276
+Execution time             = 309.644299 s
+Multihit                   = Y
+File                       = data/sigma/Q_W_L32_beta8.csv
+========================================
+
+========================================
+Date            = 2026-11-19 16:00:04
+L                          = 40
+V                          = 1600
+N_links                    = 3200
+beta                       = 12.00000000
+N_therm                    = 100
+N_sweeps (hybrid)          = 100000
+N_accepted (Metr.)         = 140999426
+Acceptance rate (Metr.)    = 0.440623
+Execution time             = 928.806108 s
+Multihit                   = Y
+File                       = data/sigma/Q_W_L40_beta12.csv
+========================================
+
